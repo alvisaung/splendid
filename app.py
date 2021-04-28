@@ -3,7 +3,6 @@ from datetime import datetime
 from werkzeug.utils import secure_filename
 from config import *
 import os
-import imutils
 from os import listdir
 from os.path import isfile, join
 import cv2
